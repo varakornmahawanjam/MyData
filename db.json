@@ -5,7 +5,7 @@
       "id": 1,
       "projectName": "1",
       "date": "21/04/2021",
-      "status": "รอชำระ",
+      "status": "รอชำระเงิน",
       "name": "Jame",
       "payment": 10000
     },
@@ -30,6 +30,14 @@
       "projectName": "4",
       "date": "24/04/2021",
       "status": "รอตรวจสอบ",
+      "name": "Jame",
+      "payment": 10000
+    }
+    {
+      "id": 5,
+      "projectName": "5",
+      "date": "25/04/2021",
+      "status": "ไม่สำเร็จ",
       "name": "Jame",
       "payment": 10000
     }
