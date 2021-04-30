@@ -19,11 +19,11 @@
     },
     {
       "id": 3,
-      "ProjectName": "3",
-      "Date": "2019-02-03",
-      "Status": "ยกเลิก",
-      "Name": "Jame",
-      "Payment": 10000
+      "projectName": "3",
+      "date": "2019-02-03",
+      "status": "ยกเลิก",
+      "name": "Jame",
+      "payment": 10000
     },
     {
       "id": 4,
