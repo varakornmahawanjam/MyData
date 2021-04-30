@@ -2,23 +2,23 @@
   "Invoice": 
   [
     {
-      "Id": 1,
-      "ProjectName": "1",
-      "Date": "2019-02-03",
-      "Status": "รอชำระ",
-      "Name": "Jame",
-      "Payment": 10000
+      "id": 1,
+      "projectName": "1",
+      "date": "2019-02-03",
+      "status": "รอชำระ",
+      "name": "Jame",
+      "payment": 10000
     },
     {
-      "Id": 2,
-      "ProjectName": "2",
-      "Date": "2019-02-03",
-      "Status": "จ่ายแล้ว",
-      "Name": "Jame",
-      "Payment": 10000
+      "id": 2,
+      "projectName": "2",
+      "date": "2019-02-03",
+      "status": "จ่ายแล้ว",
+      "name": "Jame",
+      "payment": 10000
     },
     {
-      "Id": 3,
+      "id": 3,
       "ProjectName": "3",
       "Date": "2019-02-03",
       "Status": "ยกเลิก",
@@ -26,12 +26,12 @@
       "Payment": 10000
     },
     {
-      "Id": 4,
-      "ProjectName": "4",
-      "Date": "2019-02-03",
-      "Status": "รอตรวจสอบ",
-      "Name": "Jame",
-      "Payment": 10000
+      "id": 4,
+      "projectName": "4",
+      "date": "2019-02-03",
+      "status": "รอตรวจสอบ",
+      "name": "Jame",
+      "payment": 10000
     }
   ]
 }
