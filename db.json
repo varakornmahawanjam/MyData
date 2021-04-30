@@ -4,7 +4,7 @@
     {
       "id": 1,
       "projectName": "1",
-      "date": "2019-02-03",
+      "date": "21/04/2021",
       "status": "รอชำระ",
       "name": "Jame",
       "payment": 10000
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "projectName": "2",
-      "date": "2019-02-03",
+      "date": "22/04/2021",
       "status": "จ่ายแล้ว",
       "name": "Jame",
       "payment": 10000
@@ -20,7 +20,7 @@
     {
       "id": 3,
       "projectName": "3",
-      "date": "2019-02-03",
+      "date": "23/04/2021",
       "status": "ยกเลิก",
       "name": "Jame",
       "payment": 10000
@@ -28,7 +28,7 @@
     {
       "id": 4,
       "projectName": "4",
-      "date": "2019-02-03",
+      "date": "24/04/2021",
       "status": "รอตรวจสอบ",
       "name": "Jame",
       "payment": 10000
